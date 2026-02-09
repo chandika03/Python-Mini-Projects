@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Lhaki Sherpa",
+    "age": "12",
+    "grade": "3.87",
+    "address": "Dallu",
+    "phone": "9852634171",
+    "isScholar": "TRUE"
+  },
+  {
+    "id": "2",
+    "name": "Suraj Kumal",
+    "age": "11",
+    "grade": "3.95",
+    "address": "Dhalku",
+    "phone": "9865471230",
+    "isScholar": "TRUE"
+  },
+  {
+    "id": "4",
+    "name": "Ena Thapa",
+    "age": "11",
+    "grade": "2.98",
+    "address": "Swayambhu",
+    "phone": "9863251477",
+    "isScholar": "FALSE"
+  },
+  {
+    "id": "5",
+    "name": "bhhh hb",
+    "age": "14",
+    "grade": 3.2,
+    "address": "kk",
+    "phone": "9874524141",
+    "isScholar": false
+  }
+]
